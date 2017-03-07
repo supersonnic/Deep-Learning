@@ -1,5 +1,5 @@
 #Deep Learning
-####This repository contains sample code in Python for creating neural networks.
+This repository contains sample code in Python for creating neural networks.
 Algorithms make use of following libraries:
 * Theano
 * Tensorflow
