@@ -10,4 +10,4 @@ Algorithms make use of the following libraries:
 Algorithm | Applications | Sample Dataset
 --------- | ------------ | --------------
 ann.py | Neural Networks | Churn_Modelling.csv
-cnn.py | Convolutional Neural Network | dataset
+cnn.py | Convolutional Neural Networks | dataset
